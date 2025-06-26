@@ -43,7 +43,7 @@
 ## 📫 Connect With Me
 
 📧 charan.kanjoju@gmail.com  
-🔗 [LinkedIn – Charan Kanjoju](https://www.linkedin.com/in/charankanjoju)
+🔗 [LinkedIn – Charan Kanjoju](https://www.linkedin.com/in/charan-kanjoju-b2132b254/)
 
 ---
 
