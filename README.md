@@ -9,14 +9,16 @@
 
 ## 🛠️ My Projects
 
+- 🖼️ [AI Text Extractor](https://github.com/charankanjoju/AITextExtractor)  
+  Streamlit-based tool to extract text from images, with plans to enhance using deep learning (EasyOCR).
+  
 - 🔋 [Workout Tracker App](https://github.com/charankanjoju/workoutTracker-app)  
   A MERN stack app to track workouts and manage client data for fitness trainers.
 
 - 🛡️ [Phishing URL Detector](https://github.com/charankanjoju/PHISHING_URL_DETECTOR)  
   Flask-based ML app to detect phishing websites based on URL features.
 
-- 🖼️ [Text Extraction From Image](https://github.com/charankanjoju/TextExtractionFromImage)  
-  Python-based tool to extract text from images, with plans to enhance using deep learning (TrOCR).
+
 
 ---
 
