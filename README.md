@@ -35,13 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charankanjoju&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charankanjoju&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect With Me
 
 📧 charan.kanjoju@gmail.com  
